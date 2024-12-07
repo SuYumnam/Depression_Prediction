@@ -1,6 +1,6 @@
 # **Depression Detection Using Machine Learning**
 
-**This project implements a Depression Detection System utilizing different machine learning models. It categorizes people as "depressed" or "not depressed" according to survey data, utilizing features chosen via feature importance methods. The system additionally includes hyperparameter optimization and ensemble techniques for improved performance.** 
+This project implements a Depression Detection System utilizing different machine learning models. It categorizes people as "depressed" or "not depressed" according to survey data, utilizing features chosen via feature importance methods. The system additionally includes hyperparameter optimization and ensemble techniques for improved performance.
 ---
 ## **Table of Contents**
 - [Introduction](#Introduction)
@@ -80,6 +80,12 @@ jupyter notebook Depression_Detection.ipynb
 - Applied feature selection using Random Forest to reduce dimensionality.
 - Performed hyperparameter tuning for Random Forest, Gradient Boosting, and SVM.
 - Integrated a voting ensemble classifier to leverage strengths of individual models.
+
+---
+## **Future Work**
+- Incorporate deep learning models for more accurate predictions.
+- Expand the dataset to include diverse demographic groups.
+- Build a web interface for real-time depression prediction.
 
 
 
