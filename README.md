@@ -87,6 +87,12 @@ jupyter notebook Depression_Detection.ipynb
 - Expand the dataset to include diverse demographic groups.
 - Build a web interface for real-time depression prediction.
 
+---
+## **Reference**
+- link
+  [repository reference link](https://github.com/ShashiWerdun/mental-health-prediction/tree/master)
+  
+
 
 
 
